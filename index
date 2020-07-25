@@ -1,0 +1,85 @@
+<html>
+   <head>
+      <script type="text/javascript">
+         <!--
+            // document.write("You will be redirected to main page in 1 sec if you click the button");
+            function DS() {
+               window.location="https://discord.gg/5B2GAJx";
+            }
+            function JNSB() {
+               window.location="https://www.reddit.com/r/JustNatsuki/";
+            }
+            function BWSB() {
+               window.location="https://www.reddit.com/r/BrowserWaifus_irl/";
+            }
+            function rickroll() {
+               window.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+            }
+            
+            function porkDiscord() {
+               window.location="https://pastebin.com/5cYLVPfL";
+            }
+            function porkTwitter() {
+               window.location="https://twitter.com/MegaPorkachu";
+            }
+            function porkTwitter2() {
+               window.location="https://twitter.com/PorkachuLite";
+            }
+
+      </script>  
+   </head>
+   <body>
+      <p> </p>
+      <form>
+
+         /r/JustNatsuki
+
+      </form>
+<script type="text/javascript">
+</script>
+      <form>
+
+         <input type="button" value="Subreddit" onclick="setTimeout('JNSB()', 1000);" />
+         <input type="button" value="Discord Server" onclick="setTimeout('DS()', 1000);" />
+         
+      </form>
+<script type="text/javascript">
+   document.write("<br />");
+</script>
+      <form>
+
+         /r/BrowserWaifus_irl
+
+      </form>
+<script type="text/javascript">
+</script>
+      <form>
+
+         <input type="button" value="Subreddit" onclick="setTimeout('BWSB()', 1000);" />
+         <!-- <input type="button" value="Discord Server" onclick="setTimeout('', 1000);" /> -->
+      
+      </form>
+<script type="text/javascript">
+   document.write("<br />");
+   document.write("<br />");
+   document.write("<br />");
+   document.write("<br />");
+   document.write("<br />");
+</script>
+      <form>
+         Social Medias
+      </form>
+<script type="text/javascript">
+</script>
+      <form>
+         <input type="button" value="Discord Info" onclick="setTimeout('porkDiscord()', 100);" />
+         <input type="button" value="Twitter Main" onclick="setTimeout('porkTwitter()', 100);" />
+         <input type="button" value="Twitter Lite" onclick="setTimeout('porkTwitter2()', 100);" />
+
+
+
+      </form>
+      <p> </p>
+       
+   </body>
+</html>
